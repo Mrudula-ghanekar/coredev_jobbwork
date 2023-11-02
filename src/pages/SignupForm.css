@@ -1,0 +1,392 @@
+.color-vec-icon {
+  position: absolute;
+  top: 0;
+  left: 119px;
+  width: 608px;
+  height: 349px;
+  opacity: 0.7;
+}
+.left-margin {
+  position: absolute;
+  top: 0;
+  left: 480px;
+  background-color: var(--color-white);
+  width: 960px;
+  height: 1024px;
+}
+.tittle {
+  position: absolute;
+  top: 89px;
+  left: 575px;
+  font-size: 45.89px;
+}
+.jobwork-logo-png-1 {
+  position: absolute;
+  top: 18px;
+  left: 1324px;
+  width: 94.48px;
+  height: 79.63px;
+  object-fit: cover;
+}
+.color-vec-icon1,
+.color-vec-icon2,
+.color-vec-icon3 {
+  position: absolute;
+  top: 360px;
+  left: 0;
+  width: 415px;
+  height: 420px;
+  opacity: 0.7;
+}
+.color-vec-icon2,
+.color-vec-icon3 {
+  top: 135px;
+  width: 570px;
+  height: 636px;
+}
+.color-vec-icon3 {
+  top: 536px;
+  left: 7px;
+  width: 607px;
+  height: 340px;
+}
+.color-vec-icon4,
+.color-vec-icon5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 389px;
+  height: 481px;
+  opacity: 0.7;
+}
+.color-vec-icon5 {
+  top: 700px;
+  left: 132px;
+  width: 608px;
+  height: 315px;
+}
+.projects-simplified {
+  position: absolute;
+  top: 33px;
+  left: 23px;
+  font-size: 45.89px;
+  display: inline-block;
+  color: var(--color-white);
+  width: 292px;
+}
+.apple-signup-button-child,
+.textinput-firstname {
+  position: absolute;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.textinput-firstname {
+  border: 1px solid var(--color-skyblue);
+  top: 323px;
+  left: 618px;
+  border-radius: var(--br-7xs);
+  box-sizing: border-box;
+  width: 329px;
+  height: 40px;
+}
+.apple-signup-button-child {
+  top: 8px;
+  left: 142px;
+  width: 114px;
+}
+.continue-with-apple {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-verdana);
+  color: var(--color-darkslateblue-100);
+  text-align: left;
+}
+.continue-with-apple-wrapper {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: calc(50% - 89.5px);
+  background-color: var(--color-white);
+  width: 211px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.apple-1-icon {
+  position: absolute;
+  top: calc(50% - 17.5px);
+  left: calc(50% - 121.5px);
+  width: 32px;
+  height: 32px;
+  object-fit: cover;
+}
+.apple-signup-button {
+  cursor: pointer;
+  border: 1px solid var(--color-skyblue);
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 186px;
+  left: 618px;
+  border-radius: var(--br-7xs);
+  box-sizing: border-box;
+  width: 329px;
+  height: 57px;
+  overflow: hidden;
+}
+.continue-with-google {
+  position: relative;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-verdana);
+  color: var(--color-darkslateblue-100);
+  text-align: center;
+}
+.continue-with-google-wrapper {
+  position: absolute;
+  top: calc(50% - 11.5px);
+  left: calc(50% - 89.5px);
+  background-color: var(--color-white);
+  width: 224px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.google-signup-button,
+.textinput-pass,
+.textinput-workemail {
+  border: 1px solid var(--color-skyblue);
+  border-radius: var(--br-7xs);
+  box-sizing: border-box;
+}
+.google-signup-button {
+  cursor: pointer;
+  padding: 0;
+  background-color: var(--color-white);
+  position: absolute;
+  top: 186px;
+  left: 972px;
+  width: 329px;
+  height: 57px;
+  overflow: hidden;
+}
+.textinput-pass,
+.textinput-workemail {
+  left: 618px;
+  width: 683px;
+  height: 40px;
+}
+.textinput-workemail {
+  background-color: var(--color-white);
+  position: absolute;
+  top: 422px;
+  overflow: hidden;
+}
+.textinput-pass {
+  top: 521px;
+}
+.first-name,
+.textinput-pass,
+.textinputlastname {
+  position: absolute;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.textinputlastname {
+  border: 1px solid var(--color-skyblue);
+  top: 323px;
+  left: 972px;
+  border-radius: var(--br-7xs);
+  box-sizing: border-box;
+  width: 329px;
+  height: 40px;
+}
+.first-name {
+  top: 309px;
+  left: 635px;
+  width: 114px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-xl);
+}
+.work-email-address {
+  position: relative;
+}
+.work-email {
+  top: 410px;
+  left: 635px;
+  width: 206px;
+  font-size: var(--font-size-xl);
+}
+.ckb1text,
+.ckb2text,
+.including,
+.pass,
+.work-email {
+  position: absolute;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.pass {
+  top: 509px;
+  left: 635px;
+  width: 339px;
+  font-size: var(--font-size-xl);
+}
+.ckb1text,
+.ckb2text,
+.including {
+  top: calc(50% + 200px);
+  left: calc(50% - 45px);
+  width: 543px;
+}
+.ckb2text,
+.including {
+  top: calc(50% + 232px);
+  width: 294px;
+}
+.including {
+  left: calc(50% + 454px);
+  width: 123px;
+}
+.including1 {
+  top: calc(50% + 262px);
+  left: calc(50% + 98px);
+  width: 28px;
+}
+.div,
+.including1,
+.lastname,
+.or {
+  position: absolute;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.div {
+  top: calc(50% + 262px);
+  left: calc(50% + 240px);
+  width: 8px;
+}
+.lastname,
+.or {
+  top: 309px;
+  left: 989px;
+  width: 114px;
+  font-size: var(--font-size-xl);
+}
+.or {
+  top: 264px;
+  left: 903px;
+}
+.hire-talent-1 {
+  position: absolute;
+  top: 216px;
+  left: 218px;
+  width: 373.61px;
+  height: 564px;
+  object-fit: cover;
+}
+.google-line {
+  top: 274.5px;
+  left: 1003.5px;
+  border-top: 3px solid var(--color-darkslateblue-200);
+  width: 299px;
+  height: 3px;
+}
+.apple-line,
+.checkbox1,
+.checkbox2,
+.google-line {
+  position: absolute;
+  box-sizing: border-box;
+}
+.apple-line {
+  top: 274.5px;
+  left: 616.5px;
+  border-top: 3px solid var(--color-darkslateblue-200);
+  width: 299px;
+  height: 3px;
+}
+.checkbox1,
+.checkbox2 {
+  top: 590px;
+  left: 644px;
+  border-radius: var(--br-10xs);
+  border: 2px solid var(--color-gray);
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.checkbox1 {
+  top: 622px;
+}
+.log-in {
+  position: relative;
+  display: none;
+}
+.rdr-home,
+.rdr-pp,
+.rdr-tc,
+.rdr-user {
+  position: absolute;
+  top: 612px;
+  left: 958px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.rdr-pp,
+.rdr-tc,
+.rdr-user {
+  text-decoration: none;
+  color: var(--color-skyblue);
+}
+.rdr-pp,
+.rdr-user {
+  top: 642px;
+  left: 681px;
+  width: 130px;
+  box-sizing: border-box;
+}
+.rdr-pp {
+  left: 840px;
+}
+.create-account-button {
+  width: 208px;
+  position: absolute;
+  top: 714px;
+  left: 854px;
+}
+.create-account {
+  position: absolute;
+  top: 714px;
+  left: 873px;
+  font-size: 20.25px;
+  color: var(--color-white);
+  text-align: center;
+}
+.signupform {
+  position: relative;
+  background-color: var(--color-darkslateblue-100);
+  width: 100%;
+  height: 780px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslateblue-100);
+  font-family: var(--font-verdana);
+}
